@@ -4,6 +4,7 @@ A blockchain-based platform revolutionizing scientific research funding through 
 
 ## Features
 
+
 ### Research Proposal Management
 - Structured proposal submission system
 - Research milestone definition
